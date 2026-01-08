@@ -1,8 +1,8 @@
-[**Joo Code Library API**](../../../../README.md)
+[**Joo Code Library API**](../../../README.md)
 
 ***
 
-[Joo Code Library API](../../../../modules.md) / frontend/react-ts/src/pures
+[Joo Code Library API](../../../modules.md) / frontend/react-ts/src/pures
 
 # frontend/react-ts/src/pures
 

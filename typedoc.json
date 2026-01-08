@@ -8,9 +8,13 @@
   "name": "Joo Code Library API",
   "readme": "README.md", // "파일명.md" 각 패키지 폴더으 파일명.md를 읽어 옴 / "none": 개별 README는 무시하고 JSDoc 위주로 추출
 
-  // "outputFileStrategy": "modules", // 파일마다 쪼개지 않고 모듈(패키지) 단위로 파일을 합칩니다.
-  // "flattenOutputFiles": true, // 폴더 구조를 너무 깊게 파지 않고 평탄하게 펼칩니다.
+  "outputFileStrategy": "modules", // 파일마다 쪼개지 않고 모듈(패키지) 단위로 파일을 합칩니다.
   "hideBreadcrumbs": false, // 내비게이션(Breadcrumbs)을 보여줘서 뒤로가기 편하게 합니다.
-  "indexFormat": "table", // 목록을 표 형태로 깔끔하게 보여줍니다.
-  "entryFileName": "README.md" // 인덱스 파일명을 README.md로 고정
+  "indexFormat": "list",
+  "entryFileName": "README.md", // 인덱스 파일명을 README.md로 고정
+  "navigationModel": {
+    "excludeGroups": false,
+    "excludeCategories": false,
+    "excludeFolders": false
+  }
 }

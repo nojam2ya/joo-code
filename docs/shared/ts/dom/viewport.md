@@ -1,27 +1,31 @@
-[**Joo Code Library API**](../../../../../README.md)
+[**Joo Code Library API**](../../../README.md)
 
 ***
 
-[Joo Code Library API](../../../../../modules.md) / [shared/ts/dom/viewport](../README.md) / initViewportHeight
+[Joo Code Library API](../../../modules.md) / shared/ts/dom/viewport
 
-# Function: initViewportHeight()
+# shared/ts/dom/viewport
+
+## Functions
+
+### initViewportHeight()
 
 > **initViewportHeight**(): () => `void`
 
-Defined in: shared/ts/dom/viewport.ts:16
+Defined in: [shared/ts/dom/viewport.ts:16](https://github.com/nojam2ya/joo-code/blob/82e56e179616d34b6eec35a9c48627d9fbb806e6/shared/ts/dom/viewport.ts#L16)
 
 브라우저의 실제 뷰포트 높이(vh)를 계산하여 CSS 변수(--vh)로 설정합니다.
 모바일 브라우저에서 주소창에 의해 화면이 가려지는 문제를 해결할 때 사용합니다.
 
-## Returns
+#### Returns
 
 > (): `void`
 
-### Returns
+##### Returns
 
 `void`
 
-## Example
+#### Example
 
 ```ts
 // 앱 진입점(App.tsx 또는 index.ts)에서 호출
