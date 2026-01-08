@@ -14,3 +14,15 @@
 ### formatCommaNumber
 
 Re-exports [formatCommaNumber](format/number.md#formatcommanumber)
+
+***
+
+### formatThousandToEok
+
+Re-exports [formatThousandToEok](format/number.md#formatthousandtoeok)
+
+***
+
+### romanToNumber
+
+Re-exports [romanToNumber](format/number.md#romantonumber)

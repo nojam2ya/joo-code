@@ -18,6 +18,18 @@ Re-exports [formatCommaNumber](ts/format/number.md#formatcommanumber)
 
 ***
 
+### formatThousandToEok
+
+Re-exports [formatThousandToEok](ts/format/number.md#formatthousandtoeok)
+
+***
+
 ### initViewportHeight
 
 Re-exports [initViewportHeight](ts/dom/viewport.md#initviewportheight)
+
+***
+
+### romanToNumber
+
+Re-exports [romanToNumber](ts/format/number.md#romantonumber)

@@ -14,7 +14,7 @@
 
 > **useDebouncedValue**\<`T`\>(`value`, `delay`): `T`
 
-Defined in: [frontend/react-ts/src/pures/hooks/useDebouncedValue.ts:26](https://github.com/nojam2ya/joo-code/blob/82e56e179616d34b6eec35a9c48627d9fbb806e6/frontend/react-ts/src/pures/hooks/useDebouncedValue.ts#L26)
+Defined in: [frontend/react-ts/src/pures/hooks/useDebouncedValue.ts:26](https://github.com/nojam2ya/joo-code/blob/53d303a916e2b300766d61a3f0c57bd7a3e3c5b9/frontend/react-ts/src/pures/hooks/useDebouncedValue.ts#L26)
 
 연속적으로 변경되는 값을 지연 시킨 후, 마지막 값만 반환하는 훅입니다.
 * 주로 검색어 입력(Search Input)이나 윈도우 리사이즈 이벤트 등

@@ -12,7 +12,7 @@
 
 > **initViewportHeight**(): () => `void`
 
-Defined in: [shared/ts/dom/viewport.ts:16](https://github.com/nojam2ya/joo-code/blob/82e56e179616d34b6eec35a9c48627d9fbb806e6/shared/ts/dom/viewport.ts#L16)
+Defined in: [shared/ts/dom/viewport.ts:16](https://github.com/nojam2ya/joo-code/blob/53d303a916e2b300766d61a3f0c57bd7a3e3c5b9/shared/ts/dom/viewport.ts#L16)
 
 브라우저의 실제 뷰포트 높이(vh)를 계산하여 CSS 변수(--vh)로 설정합니다.
 모바일 브라우저에서 주소창에 의해 화면이 가려지는 문제를 해결할 때 사용합니다.

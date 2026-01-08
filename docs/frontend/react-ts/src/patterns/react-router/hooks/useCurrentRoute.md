@@ -14,7 +14,7 @@
 
 > **useCurrentRoute**(`route`): `object`
 
-Defined in: [frontend/react-ts/src/patterns/react-router/hooks/useCurrentRoute.ts:24](https://github.com/nojam2ya/joo-code/blob/82e56e179616d34b6eec35a9c48627d9fbb806e6/frontend/react-ts/src/patterns/react-router/hooks/useCurrentRoute.ts#L24)
+Defined in: [frontend/react-ts/src/patterns/react-router/hooks/useCurrentRoute.ts:24](https://github.com/nojam2ya/joo-code/blob/53d303a916e2b300766d61a3f0c57bd7a3e3c5b9/frontend/react-ts/src/patterns/react-router/hooks/useCurrentRoute.ts#L24)
 
 현재 브라우저의 위치(location)와 라우트 설정을 비교하여 현재 활성화된 라우트 정보를 반환합니다.
 중첩된 라우트의 전체 트리와 가장 하위의 타겟 라우트를 모두 가져올 수 있습니다.

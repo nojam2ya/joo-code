@@ -12,7 +12,7 @@ react-router 라이브러리 확장 정의(declare)합니다.
 
 ### RouteMeta
 
-Defined in: [frontend/react-ts/src/types/react-router.d.ts:11](https://github.com/nojam2ya/joo-code/blob/82e56e179616d34b6eec35a9c48627d9fbb806e6/frontend/react-ts/src/types/react-router.d.ts#L11)
+Defined in: [frontend/react-ts/src/types/react-router.d.ts:11](https://github.com/nojam2ya/joo-code/blob/53d303a916e2b300766d61a3f0c57bd7a3e3c5b9/frontend/react-ts/src/types/react-router.d.ts#L11)
 
 라우트별 커스텀 메타데이터 인터페이스
 
@@ -22,7 +22,7 @@ Defined in: [frontend/react-ts/src/types/react-router.d.ts:11](https://github.co
 
 > `optional` **hidden**: `boolean`
 
-Defined in: [frontend/react-ts/src/types/react-router.d.ts:17](https://github.com/nojam2ya/joo-code/blob/82e56e179616d34b6eec35a9c48627d9fbb806e6/frontend/react-ts/src/types/react-router.d.ts#L17)
+Defined in: [frontend/react-ts/src/types/react-router.d.ts:17](https://github.com/nojam2ya/joo-code/blob/53d303a916e2b300766d61a3f0c57bd7a3e3c5b9/frontend/react-ts/src/types/react-router.d.ts#L17)
 
 메뉴 목록에서 숨김 처리 여부 (true일 경우 렌더링 제외)
 
@@ -30,7 +30,7 @@ Defined in: [frontend/react-ts/src/types/react-router.d.ts:17](https://github.co
 
 > `optional` **menuId**: `string`
 
-Defined in: [frontend/react-ts/src/types/react-router.d.ts:19](https://github.com/nojam2ya/joo-code/blob/82e56e179616d34b6eec35a9c48627d9fbb806e6/frontend/react-ts/src/types/react-router.d.ts#L19)
+Defined in: [frontend/react-ts/src/types/react-router.d.ts:19](https://github.com/nojam2ya/joo-code/blob/53d303a916e2b300766d61a3f0c57bd7a3e3c5b9/frontend/react-ts/src/types/react-router.d.ts#L19)
 
 권한 제어나 메뉴 매핑에 사용되는 고유 ID
 
@@ -38,7 +38,7 @@ Defined in: [frontend/react-ts/src/types/react-router.d.ts:19](https://github.co
 
 > `optional` **menuTitle**: `string`
 
-Defined in: [frontend/react-ts/src/types/react-router.d.ts:15](https://github.com/nojam2ya/joo-code/blob/82e56e179616d34b6eec35a9c48627d9fbb806e6/frontend/react-ts/src/types/react-router.d.ts#L15)
+Defined in: [frontend/react-ts/src/types/react-router.d.ts:15](https://github.com/nojam2ya/joo-code/blob/53d303a916e2b300766d61a3f0c57bd7a3e3c5b9/frontend/react-ts/src/types/react-router.d.ts#L15)
 
 네비게이션 메뉴나 Breadcrumb에 표시될 이름
 
@@ -46,6 +46,6 @@ Defined in: [frontend/react-ts/src/types/react-router.d.ts:15](https://github.co
 
 > `optional` **title**: `string`
 
-Defined in: [frontend/react-ts/src/types/react-router.d.ts:13](https://github.com/nojam2ya/joo-code/blob/82e56e179616d34b6eec35a9c48627d9fbb806e6/frontend/react-ts/src/types/react-router.d.ts#L13)
+Defined in: [frontend/react-ts/src/types/react-router.d.ts:13](https://github.com/nojam2ya/joo-code/blob/53d303a916e2b300766d61a3f0c57bd7a3e3c5b9/frontend/react-ts/src/types/react-router.d.ts#L13)
 
 브라우저 탭에 표시될 페이지 타이틀
